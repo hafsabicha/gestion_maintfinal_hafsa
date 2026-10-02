@@ -1,0 +1,28 @@
+{
+  "admin": {
+    "name": "Administrateur",
+    "role": "admin",
+    "salt": "92e24facd3c9e51ce07262daa9af4971",
+    "hash": "f17d47f98c87c693da3e0eebd4ad52281428c13464b8b6f94140a7bc7e606641",
+    "active": true,
+    "tech_code": "",
+    "created": "2026-10-02 11:50",
+    "failed": 0,
+    "locked_until": 0,
+    "default_pwd": true
+  },
+  "12d": {
+    "name": "Hafsa bicha",
+    "role": "technicien",
+    "salt": "5d8e9609afdd8ec55b24b874018d0149",
+    "hash": "2eb73410f46e2eadbbe2cc8ad49eb02b65ab7100bdcfedfc1bae7ef26a154d61",
+    "active": true,
+    "tech_code": "",
+    "fonction": "Ingénieur",
+    "created": "2026-10-02 11:51",
+    "failed": 0,
+    "locked_until": 0,
+    "default_pwd": false,
+    "last_login": "2026-10-02 11:52"
+  }
+}
